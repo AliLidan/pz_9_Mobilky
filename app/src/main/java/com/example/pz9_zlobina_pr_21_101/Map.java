@@ -15,6 +15,7 @@ public class Map extends AppCompatActivity implements View.OnClickListener{
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_map);
         Button vi = findViewById(R.id.button);
+        //add button
     }
 
     @Override
